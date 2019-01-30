@@ -12,4 +12,6 @@ A simple 15 Puzzle Demo Game made using the awesome HTML 5 framework Pixi.js.
 uses the awesome Pixi.js HTML5 game engine
 Uses Pixi.js version 4.7.0 [Download Pixi.js here](https://github.com/pixijs/pixi.js/releases)
 
+<iframe frameborder="0" src="https://itch.io/embed/222596" width="552" height="167"></iframe>
+
 2018 - Monster Brain games [Website/blog](http://monsterbraininc.com)
