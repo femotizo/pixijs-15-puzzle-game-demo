@@ -1,7 +1,11 @@
 ## 15 Puzzle Game - Demo Game using Pixi.js Framework
 =============
 
-A simple 15 Puzzle Demo Game made using the awesome HTML 5 framework Pixi.js.
+A **Extended version** of simple 15 Puzzle Demo Game made using the awesome HTML 5 framework Pixi.js.
+
+## Extended Features
+ - Fullscreen
+ - Multi Tile Slide
 
 **Language** : HTML5 + Javascript
 
